@@ -1,5 +1,5 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "command": "npm",
     "isShellCommand": true,
     "suppressTaskName": true,
@@ -9,7 +9,7 @@
         // "npm install --loglevel info"
         "taskName": "start",
         "isBuildCommand": true,
-        "args": ["install", "--loglevel", "info"]
+        "args": ["start"]
         },
         {
         // Test task, Ctrl+Shift+T
